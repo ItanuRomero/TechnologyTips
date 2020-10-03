@@ -29,3 +29,16 @@
 
 - [Swagger](https://swagger.io/)
     > Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Find out how Swagger can help you design and document your APIs at scale.
+
+### Developer Tools
+
+- [Jekyll](https://jekyllrb.com/)
+    > Transform your plain text into static websites and blogs.
+
+### Hosting Services
+
+- [Github Pages](https://pages.github.com/)
+    > GitHub Pages are public webpages hosted and easily published through GitHub.
+
+- [Netlify](https://www.netlify.com/)
+    > Netlify makes it easy to build and deploy a feature-rich site at the click of a button! You don't need to be an experienced developer or architect.
