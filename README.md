@@ -54,5 +54,8 @@
 - [Gitpod](https://www.gitpod.io/)
     > Dev Environments Built for the Cloud.
 
+- [Portugol WebStudio](https://portugol-webstudio.cubos.io/ide)
+    > Dev environment for portugol language.
+
 ### Robotics Prototype
 - [Tinkerkad](https://www.tinkercad.com/)
