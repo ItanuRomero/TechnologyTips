@@ -15,6 +15,9 @@
 - [Front-End Mentor](https://www.frontendmentor.io/)
     > Plataform to find and show creative work from designers.
 
+- [Remove bg](https://www.remove.bg/)
+    > Remove backgrounds 100% automatically in 5 seconds with zero clicks.
+
 ### Organization
 
 - [Notion](https://www.notion.so/signup)
