@@ -62,3 +62,13 @@
 
 ### Robotics Prototype
 - [Tinkerkad](https://www.tinkercad.com/)
+
+### Favicon Tools
+-[Favicon Archive](https://iconarchive.com/)
+    > Search icons to your project.
+
+- [Favicon Generator](https://favicon.io/)
+    > Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+
+- [Create your favicon](https://www.favicon.cc/)
+    > Draw your favicon.
